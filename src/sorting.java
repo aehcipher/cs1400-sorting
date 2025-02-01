@@ -15,7 +15,7 @@ public class sorting {
 		a[i] = a[j];
 		a[j] = temp;
 	}
-
+	//this is for sorting 
 	
 	public static void selectionSort(int a[]) {
 		int totalComparisons = 0;
